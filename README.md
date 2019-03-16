@@ -1,0 +1,2 @@
+# Microprocessor-Without-Interlocked-Pipeline-Stages-8-bit-
+This project was aiming to design and code a Microprocessor block by block and then run it on a Field Programmable Gate Array (FPGA) Board. 8-bit Microprocessor was designed which consisted of Arithmetic Logical Unit (ALU) which can do all necessary mathematical operations. Moreover, measures to prevent hazards and problems were kept in mind.
